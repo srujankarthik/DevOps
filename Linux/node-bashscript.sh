@@ -33,7 +33,7 @@ npm install
 # run
 node server.js
 
-## LOG_DIR variable not set error, idk how to fix it but the rest should work
+## LOG_DIR variable not set error, idk how to fix it but the rest should work, there is something wrong with setting thus up, will have to look at it later
 
 # check if the application is running/started
 ps aux | grep node | grep -v grep
